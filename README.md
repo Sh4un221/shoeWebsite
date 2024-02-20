@@ -16,3 +16,15 @@
 
 
 
+# CSS:
+
+`margin`: The CSS `margin` properties are used to create space around elements,  outside of any defined borders.
+
+`padding`: The CSS `padding` properties are used to generate space around  an element's content, inside of any defined borders.
+
+`background`: The CSS background properties are used to add background effects  for elements.
+
+`z-index`: The `z-index` property specifies the stack order of an element.
+
+
+
