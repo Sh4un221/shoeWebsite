@@ -26,5 +26,29 @@
 
 `z-index`: The `z-index` property specifies the stack order of an element.
 
+`position`: The `position` property specifies the type of positioning method used for an element.
+
+`Grid`: The CSS Grid Layout Module offers a grid-based layout system, with rows and  columns, making it easier to design web pages without having to use floats and  positioning.
+
+`grid-template-columns`: The `grid-template-columns` property specifies the number  (and the widths) of columns in a grid  layout.
+
+`text-decoration`: The `text-decoration` property specifies the decoration added to text,  and is a shorthand  property for:
+
+- text-decoration-line (required)
+- text-decoration-color
+- text-decoration-style
+- text-decoration-thickness
+
+The `flex` property is a shorthand property for Flexbox and allows you to use some properties like the following:
+
+- [align-items](https://www.w3schools.com/cssref/css3_pr_align-items.php):
+
+  **short summary:** The `align-items` property specifies the default alignment for items inside a flexbox or grid container.
+
+- [justify-content](https://www.w3schools.com/cssref/css3_pr_justify-content.php):
+
+  **short summary:** The `justify-content` property aligns the flexible container's items when the items do not use all available space on the main-axis (horizontally).
+
+  
 
 
