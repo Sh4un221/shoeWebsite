@@ -5,3 +5,14 @@
 # Tags HTML:
 
 `<header>` : The `<header>` element represents a container for introductory content or  a set of navigational links.
+
+`<nav>`: The `<nav>` tag defines a set of navigation links.
+
+`<div>`: The `<div>` tag defines a division or a section in an HTML document.
+
+`<ul>` : The `<ul>` tag defines an unordered (bulleted) list.
+
+`<li>` : The `<li>` tag defines a list item.
+
+
+
