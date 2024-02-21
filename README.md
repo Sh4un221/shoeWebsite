@@ -32,6 +32,11 @@
 
 `grid-template-columns`: The `grid-template-columns` property specifies the number  (and the widths) of columns in a grid  layout.
 
+The `grid-gap` property defines the size of  the gap between the rows *and* columns in a grid layout, and is a shorthand property for the  following properties:
+
+- [grid-row-gap](https://www.w3schools.com/cssref/pr_grid-row-gap.php): The `grid-row-gap` property defines the size of the gap between the rows  in a grid layout.
+- [grid-column-gap](https://www.w3schools.com/cssref/pr_grid-column-gap.php): The `grid-column-gap` property defines the size of the gap between the columns in a grid layout.
+
 `text-decoration`: The `text-decoration` property specifies the decoration added to text,  and is a shorthand  property for:
 
 - text-decoration-line (required)
@@ -41,14 +46,9 @@
 
 The `flex` property is a shorthand property for Flexbox and allows you to use some properties like the following:
 
-- [align-items](https://www.w3schools.com/cssref/css3_pr_align-items.php):
+- [align-items](https://www.w3schools.com/cssref/css3_pr_align-items.php): The `align-items` property specifies the default alignment for items inside a flexbox or grid container.
 
-  **short summary:** The `align-items` property specifies the default alignment for items inside a flexbox or grid container.
+- [justify-content](https://www.w3schools.com/cssref/css3_pr_justify-content.php): The `justify-content` property aligns the flexible container's items when the items do not use all available space on the main-axis (horizontally).
 
-- [justify-content](https://www.w3schools.com/cssref/css3_pr_justify-content.php):
-
-  **short summary:** The `justify-content` property aligns the flexible container's items when the items do not use all available space on the main-axis (horizontally).
-
-  
-
+`transform`: The `transform` property applies a 2D or 3D transformation to an element. This property allows you to rotate,  scale, move, skew, etc., elements.
 
